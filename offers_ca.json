@@ -1,0 +1,3759 @@
+{
+  "meta": {
+    "region": "CA",
+    "generated_at": "2026-04-12T13:23:40.766097+00:00",
+    "total_domains": 310,
+    "programme_counts": {
+      "avios": 0,
+      "virgin_red": 0,
+      "shops_away": 0,
+      "flying_blue": 0,
+      "united_mp": 0,
+      "aa_eshopping": 0,
+      "delta_skymiles": 0,
+      "southwest_rr": 0,
+      "atmos": 0,
+      "skywards_mall": 0,
+      "asia_miles": 0,
+      "aeroplan_estore": 310,
+      "qantas_shopping": 0,
+      "radisson": 0
+    },
+    "avios_retailer_count": 0,
+    "virgin_red_retailer_count": 0,
+    "shops_away_retailer_count": 0,
+    "flying_blue_retailer_count": 0,
+    "united_mp_retailer_count": 0,
+    "aa_eshopping_retailer_count": 0,
+    "delta_skymiles_retailer_count": 0,
+    "southwest_rr_retailer_count": 0,
+    "atmos_retailer_count": 0,
+    "skywards_mall_retailer_count": 0,
+    "asia_miles_retailer_count": 0,
+    "aeroplan_estore_retailer_count": 310,
+    "qantas_shopping_retailer_count": 0,
+    "radisson_retailer_count": 0
+  },
+  "offers": {
+    "amazon.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Amazon",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/128654",
+        "currency": "CAD",
+        "merchant_id": "128654"
+      }
+    ],
+    "sephora.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Sephora",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127487",
+        "currency": "CAD",
+        "merchant_id": "127487"
+      }
+    ],
+    "shop.lululemon.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "lululemon",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/191627",
+        "currency": "CAD",
+        "merchant_id": "191627"
+      }
+    ],
+    "bananarepublic.gapcanada.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Banana Republic",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127460",
+        "currency": "CAD",
+        "merchant_id": "127460"
+      }
+    ],
+    "hellofresh.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "HelloFresh",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249154",
+        "currency": "CAD",
+        "merchant_id": "249154"
+      }
+    ],
+    "yeti.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "YETI",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/173537",
+        "currency": "CAD",
+        "merchant_id": "173537"
+      }
+    ],
+    "lg.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "LG",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/228487",
+        "currency": "CAD",
+        "merchant_id": "228487"
+      }
+    ],
+    "thelasthunt.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "The Last Hunt",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/151824",
+        "currency": "CAD",
+        "merchant_id": "151824"
+      }
+    ],
+    "nordvpn.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "NordVPN",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/147467",
+        "currency": "CAD",
+        "merchant_id": "147467"
+      }
+    ],
+    "factormeals.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Factor",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249153",
+        "currency": "CAD",
+        "merchant_id": "249153"
+      }
+    ],
+    "aosom.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Aosom Canada",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/187073",
+        "currency": "CAD",
+        "merchant_id": "187073"
+      }
+    ],
+    "hrblock.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "H&R Block",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/207143",
+        "currency": "CAD",
+        "merchant_id": "207143"
+      }
+    ],
+    "bestbuy.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Best Buy",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/183041",
+        "currency": "CAD",
+        "merchant_id": "183041"
+      }
+    ],
+    "kanuk.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Kanuk",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/236647",
+        "currency": "CAD",
+        "merchant_id": "236647"
+      }
+    ],
+    "marcelle.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Marcelle",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/203267",
+        "currency": "CAD",
+        "merchant_id": "203267"
+      }
+    ],
+    "lenovo.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lenovo Pro",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127467",
+        "currency": "CAD",
+        "merchant_id": "127467"
+      }
+    ],
+    "polysleep.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Polysleep",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/238306",
+        "currency": "CAD",
+        "merchant_id": "238306"
+      }
+    ],
+    "apple.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Apple",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127476",
+        "currency": "CAD",
+        "merchant_id": "127476"
+      }
+    ],
+    "knixteen.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "KT",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/246035",
+        "currency": "CAD",
+        "merchant_id": "246035"
+      }
+    ],
+    "hp.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "HP",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/233711",
+        "currency": "CAD",
+        "merchant_id": "233711"
+      }
+    ],
+    "watier.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Watier",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/203268",
+        "currency": "CAD",
+        "merchant_id": "203268"
+      }
+    ],
+    "coastappliances.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Coast Appliances",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/161591",
+        "currency": "CAD",
+        "merchant_id": "161591"
+      }
+    ],
+    "ankersolix.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Anker Solix",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/191009",
+        "currency": "CAD",
+        "merchant_id": "191009"
+      }
+    ],
+    "homes-and-villas.marriott.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Homes & Villas by Marriott",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/179050",
+        "currency": "CAD",
+        "merchant_id": "179050"
+      }
+    ],
+    "mulberry.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mulberry",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/256067",
+        "currency": "CAD",
+        "merchant_id": "256067"
+      }
+    ],
+    "all-clad.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "All-clad",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/256028",
+        "currency": "CAD",
+        "merchant_id": "256028"
+      }
+    ],
+    "lagostina.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lagostina",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/256029",
+        "currency": "CAD",
+        "merchant_id": "256029"
+      }
+    ],
+    "t-fal.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "T-Fal",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/256030",
+        "currency": "CAD",
+        "merchant_id": "256030"
+      }
+    ],
+    "roa-hiking.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "ROA Hiking",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/256001",
+        "currency": "CAD",
+        "merchant_id": "256001"
+      }
+    ],
+    "nordpass.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "NordPass",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/255992",
+        "currency": "CAD",
+        "merchant_id": "255992"
+      }
+    ],
+    "chatters.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Chatters",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/255612",
+        "currency": "CAD",
+        "merchant_id": "255612"
+      }
+    ],
+    "outcast-clothing.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Outcast",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/255507",
+        "currency": "CAD",
+        "merchant_id": "255507"
+      }
+    ],
+    "unboundmerino.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Unbound Merino",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/255002",
+        "currency": "CAD",
+        "merchant_id": "255002"
+      }
+    ],
+    "us.leemathews.com.au": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lee Mathews",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/255000",
+        "currency": "CAD",
+        "merchant_id": "255000"
+      }
+    ],
+    "gapfactory.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Gap Factory",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/254989",
+        "currency": "CAD",
+        "merchant_id": "254989"
+      }
+    ],
+    "ae.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "American Eagle",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/254868",
+        "currency": "CAD",
+        "merchant_id": "254868"
+      }
+    ],
+    "chillymoose.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Chilly Moose",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/254662",
+        "currency": "CAD",
+        "merchant_id": "254662"
+      }
+    ],
+    "wearnumi.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Numi",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/254307",
+        "currency": "CAD",
+        "merchant_id": "254307"
+      }
+    ],
+    "xcaret.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Xcaret",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/254231",
+        "currency": "CAD",
+        "merchant_id": "254231"
+      }
+    ],
+    "monteandcoe.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Monte & Coe",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/253788",
+        "currency": "CAD",
+        "merchant_id": "253788"
+      }
+    ],
+    "sharkninja.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "SharkNinja",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/253537",
+        "currency": "CAD",
+        "merchant_id": "253537"
+      }
+    ],
+    "ca.dessy.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Ooni",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/253473",
+        "currency": "CAD",
+        "merchant_id": "253473"
+      }
+    ],
+    "castlery.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Castlery",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/253244",
+        "currency": "CAD",
+        "merchant_id": "253244"
+      }
+    ],
+    "aerless.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Aerless",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/252837",
+        "currency": "CAD",
+        "merchant_id": "252837"
+      }
+    ],
+    "liforme.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Liforme",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/252836",
+        "currency": "CAD",
+        "merchant_id": "252836"
+      }
+    ],
+    "lovetodream.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Love to Dream",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/252611",
+        "currency": "CAD",
+        "merchant_id": "252611"
+      }
+    ],
+    "mernini.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mernini",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/251292",
+        "currency": "CAD",
+        "merchant_id": "251292"
+      }
+    ],
+    "makegoodfood.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "GoodFood",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/251291",
+        "currency": "CAD",
+        "merchant_id": "251291"
+      }
+    ],
+    "evryjewels.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Evry Jewels",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/251290",
+        "currency": "CAD",
+        "merchant_id": "251290"
+      }
+    ],
+    "stickeryou.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "StickerYou",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/250574",
+        "currency": "CAD",
+        "merchant_id": "250574"
+      }
+    ],
+    "st-agni.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "St Agni",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/250452",
+        "currency": "CAD",
+        "merchant_id": "250452"
+      }
+    ],
+    "wish.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Wish",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/250147",
+        "currency": "CAD",
+        "merchant_id": "250147"
+      }
+    ],
+    "chewy.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Chewy",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249975",
+        "currency": "CAD",
+        "merchant_id": "249975"
+      }
+    ],
+    "shopacler.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Acler",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249899",
+        "currency": "CAD",
+        "merchant_id": "249899"
+      }
+    ],
+    "shopsignificantother.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Significant Other",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249901",
+        "currency": "CAD",
+        "merchant_id": "249901"
+      }
+    ],
+    "alltrails.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "AllTrails",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249617",
+        "currency": "CAD",
+        "merchant_id": "249617"
+      }
+    ],
+    "laroche-posay.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "La Roche-Posay",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249566",
+        "currency": "CAD",
+        "merchant_id": "249566"
+      }
+    ],
+    "armani-beauty.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Armani Beauty",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249545",
+        "currency": "CAD",
+        "merchant_id": "249545"
+      }
+    ],
+    "biotherm.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Biotherm",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249546",
+        "currency": "CAD",
+        "merchant_id": "249546"
+      }
+    ],
+    "kerastase.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Kerastase",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249548",
+        "currency": "CAD",
+        "merchant_id": "249548"
+      }
+    ],
+    "kiehls.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Kiehl's",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249549",
+        "currency": "CAD",
+        "merchant_id": "249549"
+      }
+    ],
+    "lancome.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lancome",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249550",
+        "currency": "CAD",
+        "merchant_id": "249550"
+      }
+    ],
+    "skinceuticals.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "SkinCeuticals",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249551",
+        "currency": "CAD",
+        "merchant_id": "249551"
+      }
+    ],
+    "yslbeauty.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "YSL Beauty",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249553",
+        "currency": "CAD",
+        "merchant_id": "249553"
+      }
+    ],
+    "artika.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Artika",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249389",
+        "currency": "CAD",
+        "merchant_id": "249389"
+      }
+    ],
+    "chefsplate.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Chef's Plate",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/249152",
+        "currency": "CAD",
+        "merchant_id": "249152"
+      }
+    ],
+    "kilne.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Kilne",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/248665",
+        "currency": "CAD",
+        "merchant_id": "248665"
+      }
+    ],
+    "kiyoko.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Kiyoko Beauty",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/248573",
+        "currency": "CAD",
+        "merchant_id": "248573"
+      }
+    ],
+    "ca.attitudeliving.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Attitude",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/248572",
+        "currency": "CAD",
+        "merchant_id": "248572"
+      }
+    ],
+    "delonghi.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "De'Longhi",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/248571",
+        "currency": "CAD",
+        "merchant_id": "248571"
+      }
+    ],
+    "theinkeylist.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "The Inkey List",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247977",
+        "currency": "CAD",
+        "merchant_id": "247977"
+      }
+    ],
+    "ca.shokz.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Shokz",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247730",
+        "currency": "CAD",
+        "merchant_id": "247730"
+      }
+    ],
+    "charleskeith.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Charles & Keith",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247623",
+        "currency": "CAD",
+        "merchant_id": "247623"
+      }
+    ],
+    "motiongrey.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "MotionGrey",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247622",
+        "currency": "CAD",
+        "merchant_id": "247622"
+      }
+    ],
+    "garneau.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Garneau",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247621",
+        "currency": "CAD",
+        "merchant_id": "247621"
+      }
+    ],
+    "gianttiger.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Giant Tiger",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247615",
+        "currency": "CAD",
+        "merchant_id": "247615"
+      }
+    ],
+    "vitruvi.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Vitruvi",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247563",
+        "currency": "CAD",
+        "merchant_id": "247563"
+      }
+    ],
+    "magneticme.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "MagneticMe",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/247368",
+        "currency": "CAD",
+        "merchant_id": "247368"
+      }
+    ],
+    "icebreaker.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "icebreaker",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/246535",
+        "currency": "CAD",
+        "merchant_id": "246535"
+      }
+    ],
+    "knix.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Knix",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/246034",
+        "currency": "CAD",
+        "merchant_id": "246034"
+      }
+    ],
+    "silkandsnow.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Silk & Snow",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/245883",
+        "currency": "CAD",
+        "merchant_id": "245883"
+      }
+    ],
+    "casper.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Casper",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/245882",
+        "currency": "CAD",
+        "merchant_id": "245882"
+      }
+    ],
+    "meritbeauty.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Merit Beauty",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/245706",
+        "currency": "CAD",
+        "merchant_id": "245706"
+      }
+    ],
+    "salomon.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Salomon",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/245707",
+        "currency": "CAD",
+        "merchant_id": "245707"
+      }
+    ],
+    "roddandgunn.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Rodd & Gunn",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/245681",
+        "currency": "CAD",
+        "merchant_id": "245681"
+      }
+    ],
+    "paulsmith.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Paul Smith",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/245215",
+        "currency": "CAD",
+        "merchant_id": "245215"
+      }
+    ],
+    "lulus.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lulus",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/245156",
+        "currency": "CAD",
+        "merchant_id": "245156"
+      }
+    ],
+    "thebodyshop.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "The Body Shop",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/244960",
+        "currency": "CAD",
+        "merchant_id": "244960"
+      }
+    ],
+    "taylormadegolf.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "TaylorMade Golf",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/244844",
+        "currency": "CAD",
+        "merchant_id": "244844"
+      }
+    ],
+    "maverickandco.co": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Maverick & Co.",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/244786",
+        "currency": "CAD",
+        "merchant_id": "244786"
+      }
+    ],
+    "swarovski.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Swarovski",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/244104",
+        "currency": "CAD",
+        "merchant_id": "244104"
+      }
+    ],
+    "tentree.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "tentree",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/243551",
+        "currency": "CAD",
+        "merchant_id": "243551"
+      }
+    ],
+    "smartwool.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Smartwool",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/243550",
+        "currency": "CAD",
+        "merchant_id": "243550"
+      }
+    ],
+    "babbel.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Babbel",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/243543",
+        "currency": "CAD",
+        "merchant_id": "243543"
+      }
+    ],
+    "caudalie.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Caudalie",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/243519",
+        "currency": "CAD",
+        "merchant_id": "243519"
+      }
+    ],
+    "psychobunny.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Psycho Bunny",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/240089",
+        "currency": "CAD",
+        "merchant_id": "240089"
+      }
+    ],
+    "brilliantearth.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Brilliant Earth",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/239896",
+        "currency": "CAD",
+        "merchant_id": "239896"
+      }
+    ],
+    "briggs-riley.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Briggs & Riley",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/239555",
+        "currency": "CAD",
+        "merchant_id": "239555"
+      }
+    ],
+    "fromourplace.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Our Place",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/239273",
+        "currency": "CAD",
+        "merchant_id": "239273"
+      }
+    ],
+    "well.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Well.ca",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/239042",
+        "currency": "CAD",
+        "merchant_id": "239042"
+      }
+    ],
+    "cheekbonebeauty.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Cheekbone Beauty",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/239041",
+        "currency": "CAD",
+        "merchant_id": "239041"
+      }
+    ],
+    "mineandyours.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mine & Yours",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/238816",
+        "currency": "CAD",
+        "merchant_id": "238816"
+      }
+    ],
+    "tiqets.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Tiqets",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/238815",
+        "currency": "CAD",
+        "merchant_id": "238815"
+      }
+    ],
+    "myprotein.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Myprotein",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/238305",
+        "currency": "CAD",
+        "merchant_id": "238305"
+      }
+    ],
+    "verbproducts.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Verb",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/238304",
+        "currency": "CAD",
+        "merchant_id": "238304"
+      }
+    ],
+    "denbypottery.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Denby",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/238123",
+        "currency": "CAD",
+        "merchant_id": "238123"
+      }
+    ],
+    "pamperedchef.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Pampered Chef",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/237594",
+        "currency": "CAD",
+        "merchant_id": "237594"
+      }
+    ],
+    "levi.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Levi's",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/237189",
+        "currency": "CAD",
+        "merchant_id": "237189"
+      }
+    ],
+    "ca.directferries.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Direct Ferries",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/237172",
+        "currency": "CAD",
+        "merchant_id": "237172"
+      }
+    ],
+    "bjornborg.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Bjorn Borg",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/237119",
+        "currency": "CAD",
+        "merchant_id": "237119"
+      }
+    ],
+    "lamaisonvalmont.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Valmont Cosmetics",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/236783",
+        "currency": "CAD",
+        "merchant_id": "236783"
+      }
+    ],
+    "dior.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Parfums Christian Dior",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/236784",
+        "currency": "CAD",
+        "merchant_id": "236784"
+      }
+    ],
+    "ca.slamjam.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Slam Jam",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/236628",
+        "currency": "CAD",
+        "merchant_id": "236628"
+      }
+    ],
+    "ekster.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Ekster",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/236200",
+        "currency": "CAD",
+        "merchant_id": "236200"
+      }
+    ],
+    "getproactiv.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Proactiv",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/236161",
+        "currency": "CAD",
+        "merchant_id": "236161"
+      }
+    ],
+    "foreo.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Foreo",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/236028",
+        "currency": "CAD",
+        "merchant_id": "236028"
+      }
+    ],
+    "mauijim.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Maui Jim",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/235748",
+        "currency": "CAD",
+        "merchant_id": "235748"
+      }
+    ],
+    "siennanaturals.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Sienna Naturals",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/235632",
+        "currency": "CAD",
+        "merchant_id": "235632"
+      }
+    ],
+    "walmart.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Walmart",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/235099",
+        "currency": "CAD",
+        "merchant_id": "235099"
+      }
+    ],
+    "ruggable.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Ruggable",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/234309",
+        "currency": "CAD",
+        "merchant_id": "234309"
+      }
+    ],
+    "hoka.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "HOKA",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/233878",
+        "currency": "CAD",
+        "merchant_id": "233878"
+      }
+    ],
+    "pinko.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "PINKO",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/233564",
+        "currency": "CAD",
+        "merchant_id": "233564"
+      }
+    ],
+    "atmcollection.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "ATM Collection",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232842",
+        "currency": "CAD",
+        "merchant_id": "232842"
+      }
+    ],
+    "ca.fourseasons.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Four Seasons at Home",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232843",
+        "currency": "CAD",
+        "merchant_id": "232843"
+      }
+    ],
+    "jack-jones.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Jack & Jones",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232777",
+        "currency": "CAD",
+        "merchant_id": "232777"
+      }
+    ],
+    "baskits.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Baskits",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232703",
+        "currency": "CAD",
+        "merchant_id": "232703"
+      }
+    ],
+    "deandavidson.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Dean Davidson",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232704",
+        "currency": "CAD",
+        "merchant_id": "232704"
+      }
+    ],
+    "cremedelamer.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "La Mer",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232705",
+        "currency": "CAD",
+        "merchant_id": "232705"
+      }
+    ],
+    "dereklam.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Derek Lam 10 Crosby",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232706",
+        "currency": "CAD",
+        "merchant_id": "232706"
+      }
+    ],
+    "rains.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "RAINS",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232483",
+        "currency": "CAD",
+        "merchant_id": "232483"
+      }
+    ],
+    "lagence.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "L’AGENCE",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232279",
+        "currency": "CAD",
+        "merchant_id": "232279"
+      }
+    ],
+    "geappliances.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "GE Appliances",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/232277",
+        "currency": "CAD",
+        "merchant_id": "232277"
+      }
+    ],
+    "ca.vessi.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Vessi",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/231477",
+        "currency": "CAD",
+        "merchant_id": "231477"
+      }
+    ],
+    "ca.clickandgrow.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Click and Grow",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/231350",
+        "currency": "CAD",
+        "merchant_id": "231350"
+      }
+    ],
+    "lolelife.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lole",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/231045",
+        "currency": "CAD",
+        "merchant_id": "231045"
+      }
+    ],
+    "mejuri.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mejuri",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/230318",
+        "currency": "CAD",
+        "merchant_id": "230318"
+      }
+    ],
+    "bikinivillage.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Bikini Village",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/230152",
+        "currency": "CAD",
+        "merchant_id": "230152"
+      }
+    ],
+    "lavieenrose.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "La Vie en Rose",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/230153",
+        "currency": "CAD",
+        "merchant_id": "230153"
+      }
+    ],
+    "diesel.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Diesel",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/228984",
+        "currency": "CAD",
+        "merchant_id": "228984"
+      }
+    ],
+    "kits.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Kits",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/228983",
+        "currency": "CAD",
+        "merchant_id": "228983"
+      }
+    ],
+    "allenedmonds.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Allen Edmonds",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/227733",
+        "currency": "CAD",
+        "merchant_id": "227733"
+      }
+    ],
+    "mooseknucklescanada.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Moose Knuckles",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/226066",
+        "currency": "CAD",
+        "merchant_id": "226066"
+      }
+    ],
+    "narscosmetics.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "NARS",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/226064",
+        "currency": "CAD",
+        "merchant_id": "226064"
+      }
+    ],
+    "shiseido.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Shiseido",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/226065",
+        "currency": "CAD",
+        "merchant_id": "226065"
+      }
+    ],
+    "burton.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Burton",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/225463",
+        "currency": "CAD",
+        "merchant_id": "225463"
+      }
+    ],
+    "robertbarakett.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Robert Barakett",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/225462",
+        "currency": "CAD",
+        "merchant_id": "225462"
+      }
+    ],
+    "society6.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Society6",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/225206",
+        "currency": "CAD",
+        "merchant_id": "225206"
+      }
+    ],
+    "belkin.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Belkin",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/224613",
+        "currency": "CAD",
+        "merchant_id": "224613"
+      }
+    ],
+    "asus.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "ASUS",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/224590",
+        "currency": "CAD",
+        "merchant_id": "224590"
+      }
+    ],
+    "uniqlo.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Uniqlo",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/224528",
+        "currency": "CAD",
+        "merchant_id": "224528"
+      }
+    ],
+    "geox.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Geox",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/224189",
+        "currency": "CAD",
+        "merchant_id": "224189"
+      }
+    ],
+    "wayfair.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Wayfair",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/223771",
+        "currency": "CAD",
+        "merchant_id": "223771"
+      }
+    ],
+    "petsmart.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "PetSmart",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/223770",
+        "currency": "CAD",
+        "merchant_id": "223770"
+      }
+    ],
+    "cabelas.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Bass Pro Shops & Cabela's",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/223314",
+        "currency": "CAD",
+        "merchant_id": "223314"
+      }
+    ],
+    "sodastream.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "SodaStream",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/222442",
+        "currency": "CAD",
+        "merchant_id": "222442"
+      }
+    ],
+    "shuuemura.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Shu Uemura",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/222441",
+        "currency": "CAD",
+        "merchant_id": "222441"
+      }
+    ],
+    "travelpro.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Travelpro",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/222440",
+        "currency": "CAD",
+        "merchant_id": "222440"
+      }
+    ],
+    "vitamix.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Vitamix",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/221819",
+        "currency": "CAD",
+        "merchant_id": "221819"
+      }
+    ],
+    "blueair.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Blueair",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/221529",
+        "currency": "CAD",
+        "merchant_id": "221529"
+      }
+    ],
+    "ca.boohoo.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Boohoo",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/221132",
+        "currency": "CAD",
+        "merchant_id": "221132"
+      }
+    ],
+    "fresh.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Fresh",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/220761",
+        "currency": "CAD",
+        "merchant_id": "220761"
+      }
+    ],
+    "minimioche.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mini Mioche",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/220760",
+        "currency": "CAD",
+        "merchant_id": "220760"
+      }
+    ],
+    "macys.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Macy's",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/219779",
+        "currency": "CAD",
+        "merchant_id": "219779"
+      }
+    ],
+    "ftd.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "FTD",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/219228",
+        "currency": "CAD",
+        "merchant_id": "219228"
+      }
+    ],
+    "eyebuydirect.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Eyebuydirect",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/218252",
+        "currency": "CAD",
+        "merchant_id": "218252"
+      }
+    ],
+    "toms.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Toms",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/217863",
+        "currency": "CAD",
+        "merchant_id": "217863"
+      }
+    ],
+    "ca.pandora.net": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Pandora",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/217726",
+        "currency": "CAD",
+        "merchant_id": "217726"
+      }
+    ],
+    "vevor.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Vevor",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/217135",
+        "currency": "CAD",
+        "merchant_id": "217135"
+      }
+    ],
+    "farfetch.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "FARFETCH",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/215497",
+        "currency": "CAD",
+        "merchant_id": "215497"
+      }
+    ],
+    "camper.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Camper",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/212223",
+        "currency": "CAD",
+        "merchant_id": "212223"
+      }
+    ],
+    "victorinox.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Victorinox",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/212082",
+        "currency": "CAD",
+        "merchant_id": "212082"
+      }
+    ],
+    "moroccanoil.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Moroccanoil",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/212083",
+        "currency": "CAD",
+        "merchant_id": "212083"
+      }
+    ],
+    "melscience.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mel Science",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/212081",
+        "currency": "CAD",
+        "merchant_id": "212081"
+      }
+    ],
+    "shinola.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Shinola",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/208286",
+        "currency": "CAD",
+        "merchant_id": "208286"
+      }
+    ],
+    "lecreuset.co.uk": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Le Creuset",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/207593",
+        "currency": "CAD",
+        "merchant_id": "207593"
+      }
+    ],
+    "clearly.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Clearly",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/206598",
+        "currency": "CAD",
+        "merchant_id": "206598"
+      }
+    ],
+    "yoox.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "YOOX",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/204719",
+        "currency": "CAD",
+        "merchant_id": "204719"
+      }
+    ],
+    "stokesstores.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Stokes",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/204491",
+        "currency": "CAD",
+        "merchant_id": "204491"
+      }
+    ],
+    "lenscrafters.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "LensCrafters",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/204144",
+        "currency": "CAD",
+        "merchant_id": "204144"
+      }
+    ],
+    "canada.michaels.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Michaels",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/202247",
+        "currency": "CAD",
+        "merchant_id": "202247"
+      }
+    ],
+    "ca.puma.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Puma",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/201290",
+        "currency": "CAD",
+        "merchant_id": "201290"
+      }
+    ],
+    "ca.sandro-paris.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Sandro",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/201073",
+        "currency": "CAD",
+        "merchant_id": "201073"
+      }
+    ],
+    "ca.maje.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Maje",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/201074",
+        "currency": "CAD",
+        "merchant_id": "201074"
+      }
+    ],
+    "deuxpardeux.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Deux par Deux",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/201072",
+        "currency": "CAD",
+        "merchant_id": "201072"
+      }
+    ],
+    "breville.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Breville",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/199777",
+        "currency": "CAD",
+        "merchant_id": "199777"
+      }
+    ],
+    "holtrenfrew.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Holt Renfrew",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/198373",
+        "currency": "CAD",
+        "merchant_id": "198373"
+      }
+    ],
+    "shopfinalcut.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "FinalCut",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/197891",
+        "currency": "CAD",
+        "merchant_id": "197891"
+      }
+    ],
+    "mountainwarehouse.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mountain Warehouse",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/196110",
+        "currency": "CAD",
+        "merchant_id": "196110"
+      }
+    ],
+    "hillbergandberk.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Hillberg & Berk",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/195021",
+        "currency": "CAD",
+        "merchant_id": "195021"
+      }
+    ],
+    "dellrefurbished.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Dell Refurbished",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/195020",
+        "currency": "CAD",
+        "merchant_id": "195020"
+      }
+    ],
+    "weightwatchers.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "WeightWatchers",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/192644",
+        "currency": "CAD",
+        "merchant_id": "192644"
+      }
+    ],
+    "fubo.tv": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "fuboTV",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/192320",
+        "currency": "CAD",
+        "merchant_id": "192320"
+      }
+    ],
+    "ashleyhomestore.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Ashley HomeStore",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/191010",
+        "currency": "CAD",
+        "merchant_id": "191010"
+      }
+    ],
+    "canadiandownandfeather.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Canadian Down & Feather Company",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/190861",
+        "currency": "CAD",
+        "merchant_id": "190861"
+      }
+    ],
+    "jenny-bird.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "JENNY BIRD",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/190599",
+        "currency": "CAD",
+        "merchant_id": "190599"
+      }
+    ],
+    "dynamiteclothing.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Dynamite",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/189080",
+        "currency": "CAD",
+        "merchant_id": "189080"
+      }
+    ],
+    "garageclothing.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Garage",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/189081",
+        "currency": "CAD",
+        "merchant_id": "189081"
+      }
+    ],
+    "saxxunderwear.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "SAXX Underwear",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/188696",
+        "currency": "CAD",
+        "merchant_id": "188696"
+      }
+    ],
+    "paulaschoice.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Paula's Choice",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/188684",
+        "currency": "CAD",
+        "merchant_id": "188684"
+      }
+    ],
+    "noom.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Noom",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/188609",
+        "currency": "CAD",
+        "merchant_id": "188609"
+      }
+    ],
+    "ssense.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "SSENSE",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/188586",
+        "currency": "CAD",
+        "merchant_id": "188586"
+      }
+    ],
+    "therabody.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Therabody",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/188156",
+        "currency": "CAD",
+        "merchant_id": "188156"
+      }
+    ],
+    "mytheresa.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mytheresa",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/187364",
+        "currency": "CAD",
+        "merchant_id": "187364"
+      }
+    ],
+    "vistaprint.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "VistaPrint",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/186473",
+        "currency": "CAD",
+        "merchant_id": "186473"
+      }
+    ],
+    "suzyshier.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Le Chateau",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/186278",
+        "currency": "CAD",
+        "merchant_id": "186278"
+      }
+    ],
+    "jamiesonvitamins.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Jamieson Vitamins",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/186182",
+        "currency": "CAD",
+        "merchant_id": "186182"
+      }
+    ],
+    "lookfantastic.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "LookFantastic",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/185262",
+        "currency": "CAD",
+        "merchant_id": "185262"
+      }
+    ],
+    "redbubble.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Redbubble",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/183206",
+        "currency": "CAD",
+        "merchant_id": "183206"
+      }
+    ],
+    "loccitane.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "L'Occitane",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127390",
+        "currency": "CAD",
+        "merchant_id": "127390"
+      }
+    ],
+    "michaelkors.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Michael Kors",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127401",
+        "currency": "CAD",
+        "merchant_id": "127401"
+      }
+    ],
+    "ray-ban.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Ray-Ban",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127413",
+        "currency": "CAD",
+        "merchant_id": "127413"
+      }
+    ],
+    "sunglasshut.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Sunglass Hut",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127417",
+        "currency": "CAD",
+        "merchant_id": "127417"
+      }
+    ],
+    "quickbooks.intuit.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Quickbooks",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127434",
+        "currency": "CAD",
+        "merchant_id": "127434"
+      }
+    ],
+    "gapcanada.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Gap",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127451",
+        "currency": "CAD",
+        "merchant_id": "127451"
+      }
+    ],
+    "adidas.co.uk": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "adidas",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127452",
+        "currency": "CAD",
+        "merchant_id": "127452"
+      }
+    ],
+    "simons.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Simons",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127466",
+        "currency": "CAD",
+        "merchant_id": "127466"
+      }
+    ],
+    "decathlon.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Decathlon",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/128431",
+        "currency": "CAD",
+        "merchant_id": "128431"
+      }
+    ],
+    "athleta.gapcanada.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Athleta",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/163438",
+        "currency": "CAD",
+        "merchant_id": "163438"
+      }
+    ],
+    "clarins.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Clarins",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/169973",
+        "currency": "CAD",
+        "merchant_id": "169973"
+      }
+    ],
+    "etsy.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Etsy",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127436",
+        "currency": "CAD",
+        "merchant_id": "127436"
+      }
+    ],
+    "underarmour.co.uk": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Under Armour",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127443",
+        "currency": "CAD",
+        "merchant_id": "127443"
+      }
+    ],
+    "viator.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Viator",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127444",
+        "currency": "CAD",
+        "merchant_id": "127444"
+      }
+    ],
+    "samsung.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Samsung",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/155984",
+        "currency": "CAD",
+        "merchant_id": "155984"
+      }
+    ],
+    "bobbibrowncosmetics.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Bobbi Brown",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127512",
+        "currency": "CAD",
+        "merchant_id": "127512"
+      }
+    ],
+    "bumbleandbumble.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Bumble and Bumble",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127519",
+        "currency": "CAD",
+        "merchant_id": "127519"
+      }
+    ],
+    "aveda.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Aveda",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127521",
+        "currency": "CAD",
+        "merchant_id": "127521"
+      }
+    ],
+    "origins.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Origins",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127522",
+        "currency": "CAD",
+        "merchant_id": "127522"
+      }
+    ],
+    "dyson.co.uk": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Dyson",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127530",
+        "currency": "CAD",
+        "merchant_id": "127530"
+      }
+    ],
+    "sail.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Sail",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/129032",
+        "currency": "CAD",
+        "merchant_id": "129032"
+      }
+    ],
+    "desigual.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Desigual",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/182815",
+        "currency": "CAD",
+        "merchant_id": "182815"
+      }
+    ],
+    "oldnavy.gapcanada.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Old Navy",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127450",
+        "currency": "CAD",
+        "merchant_id": "127450"
+      }
+    ],
+    "crocs.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Crocs",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127457",
+        "currency": "CAD",
+        "merchant_id": "127457"
+      }
+    ],
+    "lorextechnology.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lorex",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127464",
+        "currency": "CAD",
+        "merchant_id": "127464"
+      }
+    ],
+    "footlocker.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Foot Locker",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127477",
+        "currency": "CAD",
+        "merchant_id": "127477"
+      }
+    ],
+    "reitmans.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Reitmans",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127964",
+        "currency": "CAD",
+        "merchant_id": "127964"
+      }
+    ],
+    "rw-co.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "RW&CO",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127965",
+        "currency": "CAD",
+        "merchant_id": "127965"
+      }
+    ],
+    "penningtons.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Penningtons",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127966",
+        "currency": "CAD",
+        "merchant_id": "127966"
+      }
+    ],
+    "umbra.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Umbra",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/164788",
+        "currency": "CAD",
+        "merchant_id": "164788"
+      }
+    ],
+    "samsonite.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Samsonite",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/176323",
+        "currency": "CAD",
+        "merchant_id": "176323"
+      }
+    ],
+    "champssports.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Champs Sports",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/181808",
+        "currency": "CAD",
+        "merchant_id": "181808"
+      }
+    ],
+    "journeys.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Journeys",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127422",
+        "currency": "CAD",
+        "merchant_id": "127422"
+      }
+    ],
+    "jtv.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "JTV",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/182297",
+        "currency": "CAD",
+        "merchant_id": "182297"
+      }
+    ],
+    "starbucks.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Starbucks",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127968",
+        "currency": "CAD",
+        "merchant_id": "127968"
+      }
+    ],
+    "meyer.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Meyer",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/182296",
+        "currency": "CAD",
+        "merchant_id": "182296"
+      }
+    ],
+    "kiwico.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "KiwiCo",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/155981",
+        "currency": "CAD",
+        "merchant_id": "155981"
+      }
+    ],
+    "altitude-sports.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Altitude Sports",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127523",
+        "currency": "CAD",
+        "merchant_id": "127523"
+      }
+    ],
+    "bloomingdales.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Bloomingdales",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127484",
+        "currency": "CAD",
+        "merchant_id": "127484"
+      }
+    ],
+    "superdrystore.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Superdry",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127486",
+        "currency": "CAD",
+        "merchant_id": "127486"
+      }
+    ],
+    "hm.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "H&M",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127509",
+        "currency": "CAD",
+        "merchant_id": "127509"
+      }
+    ],
+    "katespade.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Kate Spade",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127511",
+        "currency": "CAD",
+        "merchant_id": "127511"
+      }
+    ],
+    "mattandnat.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Matt & Nat",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127520",
+        "currency": "CAD",
+        "merchant_id": "127520"
+      }
+    ],
+    "net-a-porter.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "NET-A-PORTER",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127526",
+        "currency": "CAD",
+        "merchant_id": "127526"
+      }
+    ],
+    "ca.coach.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Coach",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127527",
+        "currency": "CAD",
+        "merchant_id": "127527"
+      }
+    ],
+    "freepeople.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Free People",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/163142",
+        "currency": "CAD",
+        "merchant_id": "163142"
+      }
+    ],
+    "sorelfootwear.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Sorel",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127429",
+        "currency": "CAD",
+        "merchant_id": "127429"
+      }
+    ],
+    "littleburgundyshoes.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Little Burgundy",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/150801",
+        "currency": "CAD",
+        "merchant_id": "150801"
+      }
+    ],
+    "harryrosen.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Harry Rosen",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/164778",
+        "currency": "CAD",
+        "merchant_id": "164778"
+      }
+    ],
+    "roots.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Roots",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127496",
+        "currency": "CAD",
+        "merchant_id": "127496"
+      }
+    ],
+    "lasenza.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "La Senza",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127534",
+        "currency": "CAD",
+        "merchant_id": "127534"
+      }
+    ],
+    "evernew.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Ever New",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127531",
+        "currency": "CAD",
+        "merchant_id": "127531"
+      }
+    ],
+    "bogsfootwear.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Bogs",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127513",
+        "currency": "CAD",
+        "merchant_id": "127513"
+      }
+    ],
+    "peoplesjewellers.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Peoples",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127402",
+        "currency": "CAD",
+        "merchant_id": "127402"
+      }
+    ],
+    "landsend.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Land's End",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127398",
+        "currency": "CAD",
+        "merchant_id": "127398"
+      }
+    ],
+    "godaddy.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "GoDaddy",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127428",
+        "currency": "CAD",
+        "merchant_id": "127428"
+      }
+    ],
+    "allsaints.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "AllSaints",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/128657",
+        "currency": "CAD",
+        "merchant_id": "128657"
+      }
+    ],
+    "gocity.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Go City",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127387",
+        "currency": "CAD",
+        "merchant_id": "127387"
+      }
+    ],
+    "esteelauder.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Estée Lauder",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127488",
+        "currency": "CAD",
+        "merchant_id": "127488"
+      }
+    ],
+    "marriott.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Marriott Bonvoy",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/179049",
+        "currency": "CAD",
+        "merchant_id": "179049"
+      }
+    ],
+    "123ink.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "123Ink.ca",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/174527",
+        "currency": "CAD",
+        "merchant_id": "174527"
+      }
+    ],
+    "primecables.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "PrimeCables",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/174494",
+        "currency": "CAD",
+        "merchant_id": "174494"
+      }
+    ],
+    "brother.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Brother",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/173996",
+        "currency": "CAD",
+        "merchant_id": "173996"
+      }
+    ],
+    "madewell.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Madewell",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/169350",
+        "currency": "CAD",
+        "merchant_id": "169350"
+      }
+    ],
+    "persol.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Persol",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/166409",
+        "currency": "CAD",
+        "merchant_id": "166409"
+      }
+    ],
+    "shopperplus.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Shopper+",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/174528",
+        "currency": "CAD",
+        "merchant_id": "174528"
+      }
+    ],
+    "buffalodavidbitton.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Buffalo David Bitton",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/176045",
+        "currency": "CAD",
+        "merchant_id": "176045"
+      }
+    ],
+    "dell.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Dell Technologies",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127430",
+        "currency": "CAD",
+        "merchant_id": "127430"
+      }
+    ],
+    "tsc.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "TSC",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127423",
+        "currency": "CAD",
+        "merchant_id": "127423"
+      }
+    ],
+    "wayspa.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "WaySpa",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127420",
+        "currency": "CAD",
+        "merchant_id": "127420"
+      }
+    ],
+    "hatley.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Hatley",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127419",
+        "currency": "CAD",
+        "merchant_id": "127419"
+      }
+    ],
+    "yvesrocher.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Yves Rocher",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127414",
+        "currency": "CAD",
+        "merchant_id": "127414"
+      }
+    ],
+    "turbotax.intuit.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "TurboTax Canada",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127410",
+        "currency": "CAD",
+        "merchant_id": "127410"
+      }
+    ],
+    "oakley.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Oakley",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127408",
+        "currency": "CAD",
+        "merchant_id": "127408"
+      }
+    ],
+    "lacoste.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lacoste",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127406",
+        "currency": "CAD",
+        "merchant_id": "127406"
+      }
+    ],
+    "herschel.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Herschel",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127404",
+        "currency": "CAD",
+        "merchant_id": "127404"
+      }
+    ],
+    "columbiasportswear.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Columbia",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127392",
+        "currency": "CAD",
+        "merchant_id": "127392"
+      }
+    ],
+    "mrporter.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Mr. Porter",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127388",
+        "currency": "CAD",
+        "merchant_id": "127388"
+      }
+    ],
+    "disneyplus.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Disney +",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127470",
+        "currency": "CAD",
+        "merchant_id": "127470"
+      }
+    ],
+    "clinique.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Clinique",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127481",
+        "currency": "CAD",
+        "merchant_id": "127481"
+      }
+    ],
+    "llbean.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "L.L. Bean",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127498",
+        "currency": "CAD",
+        "merchant_id": "127498"
+      }
+    ],
+    "lego.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Lego",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127499",
+        "currency": "CAD",
+        "merchant_id": "127499"
+      }
+    ],
+    "stevemadden.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Steve Madden",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127502",
+        "currency": "CAD",
+        "merchant_id": "127502"
+      }
+    ],
+    "anthropologie.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Anthropologie",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127503",
+        "currency": "CAD",
+        "merchant_id": "127503"
+      }
+    ],
+    "shopbop.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "ShopBop",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127504",
+        "currency": "CAD",
+        "merchant_id": "127504"
+      }
+    ],
+    "sennheiser.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Sennheiser",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127510",
+        "currency": "CAD",
+        "merchant_id": "127510"
+      }
+    ],
+    "kobo.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Rakuten Kobo",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127516",
+        "currency": "CAD",
+        "merchant_id": "127516"
+      }
+    ],
+    "mac.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "MAC",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127525",
+        "currency": "CAD",
+        "merchant_id": "127525"
+      }
+    ],
+    "lacanadienneshoes.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "La Canadienne",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/128432",
+        "currency": "CAD",
+        "merchant_id": "128432"
+      }
+    ],
+    "ecobee.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "ecobee",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/143191",
+        "currency": "CAD",
+        "merchant_id": "143191"
+      }
+    ],
+    "moltonbrown.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Molton Brown",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/143193",
+        "currency": "CAD",
+        "merchant_id": "143193"
+      }
+    ],
+    "theory.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Theory",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/151823",
+        "currency": "CAD",
+        "merchant_id": "151823"
+      }
+    ],
+    "newegg.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Newegg",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/163440",
+        "currency": "CAD",
+        "merchant_id": "163440"
+      }
+    ],
+    "personanutrition.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Persona",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/169440",
+        "currency": "CAD",
+        "merchant_id": "169440"
+      }
+    ],
+    "fitflop.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "FitFlop",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/175631",
+        "currency": "CAD",
+        "merchant_id": "175631"
+      }
+    ],
+    "prfo.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "PRFO Sports",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/177501",
+        "currency": "CAD",
+        "merchant_id": "177501"
+      }
+    ],
+    "aliexpress.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "AliExpress",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/127437",
+        "currency": "CAD",
+        "merchant_id": "127437"
+      }
+    ],
+    "ca.warbyparker.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Warby Parker",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/169349",
+        "currency": "CAD",
+        "merchant_id": "169349"
+      }
+    ],
+    "bookoutlet.ca": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Book Outlet",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/174584",
+        "currency": "CAD",
+        "merchant_id": "174584"
+      }
+    ],
+    "nixon.co.uk": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Nixon",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/175698",
+        "currency": "CAD",
+        "merchant_id": "175698"
+      }
+    ],
+    "lcbo.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "LCBO",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/171185",
+        "currency": "CAD",
+        "merchant_id": "171185"
+      }
+    ],
+    "uber.com": [
+      {
+        "programme": "aeroplan_estore",
+        "programme_name": "Aeroplan eStore",
+        "retailer_name": "Uber",
+        "earning_rate": "",
+        "category": "",
+        "activation_url": "https://aeroplan.rewardops.com/en-CA/home/affiliate-details/166700",
+        "currency": "CAD",
+        "merchant_id": "166700"
+      }
+    ]
+  }
+}

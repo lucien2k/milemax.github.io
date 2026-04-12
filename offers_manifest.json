@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-12T13:23:40.873091+00:00",
+  "regions": {
+    "gb": {
+      "hash": "sha256:c1a1217bc64fc2504ffa24726455a2bce49ed3ff5cd5adf69e4c43329c69ac58",
+      "updated_at": "2026-04-12T13:23:40.873091+00:00",
+      "size_bytes": 3598313
+    },
+    "us": {
+      "hash": "sha256:94c09f5a77f06da57307ec91cc336ce152c1d147301546066d282a8c9e5850a7",
+      "updated_at": "2026-04-12T13:23:40.873091+00:00",
+      "size_bytes": 4544062
+    },
+    "au": {
+      "hash": "sha256:55d927872a72f6fb02aa34c25c390476fe5d80d542cc5eaaaa7c5310e8cbf7fb",
+      "updated_at": "2026-04-12T13:23:40.873091+00:00",
+      "size_bytes": 489605
+    },
+    "ca": {
+      "hash": "sha256:d52b8bceb587429bbb47c0f9431366dc8d68619bb4c9e5b456f23c4280943a10",
+      "updated_at": "2026-04-12T13:23:40.873091+00:00",
+      "size_bytes": 117581
+    }
+  }
+}
