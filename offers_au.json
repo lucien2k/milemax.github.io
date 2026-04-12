@@ -75,7 +75,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/adore-beauty",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "adore-beauty"
       }
     ],
@@ -97,7 +97,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/petstock",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "petstock"
       }
     ],
@@ -547,7 +547,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/bonds",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "bonds"
       }
     ],
@@ -675,7 +675,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/oakley",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "oakley"
       }
     ],
@@ -697,7 +697,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/loccitane",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "loccitane"
       }
     ],
@@ -986,7 +986,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/canningvale",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "canningvale"
       }
     ],
@@ -1029,7 +1029,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/typo",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "typo"
       }
     ],
@@ -1414,7 +1414,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/lululemon",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "lululemon"
       }
     ],
@@ -1458,7 +1458,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/adrenaline",
         "currency": "AUD",
-        "previous_rate": "1 Qantas Points / $1",
+        "previous_rate": "Was 1 Qantas Points / $1",
         "merchant_id": "adrenaline"
       }
     ],
@@ -2049,7 +2049,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/the-iconic",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "the-iconic"
       }
     ],
@@ -2069,7 +2069,7 @@
         "programme": "skywards_mall",
         "programme_name": "Emirates Miles Mall",
         "retailer_name": "Currencyfair Australia",
-        "earning_rate": "891 Milesper subscription",
+        "earning_rate": "891 Miles per subscription",
         "category": "Banking And Insurance",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/banking-and-insurance/currencyfair-australia",
         "currency": "AUD"
@@ -2391,7 +2391,7 @@
         "programme": "skywards_mall",
         "programme_name": "Emirates Miles Mall",
         "retailer_name": "EveryPlate",
-        "earning_rate": "From 69 Milesper subscription",
+        "earning_rate": "From 69 Miles per subscription",
         "category": "Food And Drink",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/food-and-drink/everyplate",
         "currency": "AUD"
@@ -2404,7 +2404,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/everyplate",
         "currency": "AUD",
-        "previous_rate": "7 Qantas Points / $1",
+        "previous_rate": "Was 7 Qantas Points / $1",
         "merchant_id": "everyplate"
       }
     ],
@@ -2467,7 +2467,7 @@
         "programme": "skywards_mall",
         "programme_name": "Emirates Miles Mall",
         "retailer_name": "HelloFresh AU",
-        "earning_rate": "From 301 Milesper subscription",
+        "earning_rate": "From 301 Miles per subscription",
         "category": "Food And Drink",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/food-and-drink/hellofresh-au",
         "currency": "AUD"
@@ -2522,7 +2522,7 @@
         "programme": "skywards_mall",
         "programme_name": "Emirates Miles Mall",
         "retailer_name": "Squarespace AU",
-        "earning_rate": "928 Milesper subscription",
+        "earning_rate": "928 Miles per subscription",
         "category": "Office And Business",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/office-and-business/squarespace-au",
         "currency": "AUD"
@@ -2634,7 +2634,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/shoes-sox",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "shoes-sox"
       }
     ],
@@ -2677,7 +2677,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/my-muscle-chef",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "my-muscle-chef"
       }
     ],
@@ -2785,7 +2785,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/strand",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "strand"
       }
     ],
@@ -2829,7 +2829,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/h-m",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "h-m"
       }
     ],
@@ -2873,7 +2873,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/p-e-nation",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "p-e-nation"
       }
     ],
@@ -2906,7 +2906,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/healthylife",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "healthylife"
       }
     ],
@@ -3005,7 +3005,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/jshealth-vitamins",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "jshealth-vitamins"
       }
     ],
@@ -3036,7 +3036,7 @@
         "programme": "skywards_mall",
         "programme_name": "Emirates Miles Mall",
         "retailer_name": "WW (The New Weight Watchers)",
-        "earning_rate": "185 Milesper subscription",
+        "earning_rate": "185 Miles per subscription",
         "category": "Health And Beauty",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/health-and-beauty/ww-x28-the-new-weight-watchers-x29-",
         "currency": "AUD"
@@ -3232,7 +3232,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/ray-ban",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "ray-ban"
       }
     ],
@@ -3386,7 +3386,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/redballoon",
         "currency": "AUD",
-        "previous_rate": "1 Qantas Points / $1",
+        "previous_rate": "Was 1 Qantas Points / $1",
         "merchant_id": "redballoon"
       }
     ],
@@ -3423,7 +3423,7 @@
         "category": "Clothes And Fashion",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/clothes-and-fashion/cotton-on",
         "currency": "AUD",
-        "previous_rate": "Was wasFrom 7 Miles / AUD 10"
+        "previous_rate": "Was From 7 Miles / AUD 10"
       },
       {
         "programme": "qantas_shopping",
@@ -3433,7 +3433,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/cotton-on",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "cotton-on"
       }
     ],
@@ -3558,7 +3558,7 @@
         "category": "Clothes And Fashion",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/clothes-and-fashion/forever-new",
         "currency": "AUD",
-        "previous_rate": "Was wasUp to 5 Miles / AUD 10"
+        "previous_rate": "Was Up to 5 Miles / AUD 10"
       },
       {
         "programme": "qantas_shopping",
@@ -7557,7 +7557,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/the-north-face",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "the-north-face"
       }
     ],
@@ -8119,7 +8119,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/new-balance",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "new-balance"
       }
     ],
@@ -8238,7 +8238,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/crocs",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "crocs"
       }
     ],
@@ -8394,7 +8394,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/mulberry",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "mulberry"
       }
     ],
@@ -8877,7 +8877,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/jimmy-choo",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "jimmy-choo"
       }
     ],
@@ -10464,7 +10464,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/above-the-collar",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "above-the-collar"
       }
     ],
@@ -10501,7 +10501,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/adidas",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "adidas"
       }
     ],
@@ -10574,7 +10574,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/american-tourister",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "american-tourister"
       }
     ],
@@ -10587,7 +10587,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/anaconda",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "anaconda"
       }
     ],
@@ -10612,7 +10612,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/antler",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "antler"
       }
     ],
@@ -10661,7 +10661,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/asics",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "asics"
       }
     ],
@@ -10770,7 +10770,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/beds-n-dreams",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "beds-n-dreams"
       }
     ],
@@ -10795,7 +10795,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/beginning-boutique",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "beginning-boutique"
       }
     ],
@@ -10820,7 +10820,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/berlei",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "berlei"
       }
     ],
@@ -10989,7 +10989,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/boody",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "boody"
       }
     ],
@@ -11002,7 +11002,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/booktopia",
         "currency": "AUD",
-        "previous_rate": "1 Qantas Points / $1",
+        "previous_rate": "Was 1 Qantas Points / $1",
         "merchant_id": "booktopia"
       }
     ],
@@ -11015,7 +11015,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/breville",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "breville"
       }
     ],
@@ -11088,7 +11088,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/calmerceuticals",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "calmerceuticals"
       }
     ],
@@ -11101,7 +11101,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/calvin-klein",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "calvin-klein"
       }
     ],
@@ -11126,7 +11126,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/car-mods",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "car-mods"
       }
     ],
@@ -11163,7 +11163,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/champion",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "champion"
       }
     ],
@@ -11332,7 +11332,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/depop",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "depop"
       }
     ],
@@ -11357,7 +11357,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/digidirect",
         "currency": "AUD",
-        "previous_rate": "1 Qantas Points / $1",
+        "previous_rate": "Was 1 Qantas Points / $1",
         "merchant_id": "digidirect"
       }
     ],
@@ -11382,7 +11382,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/disneyplus",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "disneyplus"
       }
     ],
@@ -11491,7 +11491,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/elite-supplements",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "elite-supplements"
       }
     ],
@@ -11528,7 +11528,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/emma-sleep",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "emma-sleep"
       }
     ],
@@ -11589,7 +11589,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/ettitude",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "ettitude"
       }
     ],
@@ -11614,7 +11614,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/everlast",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "everlast"
       }
     ],
@@ -11783,7 +11783,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/garmin",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "garmin"
       }
     ],
@@ -11952,7 +11952,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/helly-hansen",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "helly-hansen"
       }
     ],
@@ -11965,7 +11965,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/high-sierra",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "high-sierra"
       }
     ],
@@ -11990,7 +11990,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/hoselink",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "hoselink"
       }
     ],
@@ -12039,7 +12039,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/iherb",
         "currency": "AUD",
-        "previous_rate": "1 Qantas Points / $1",
+        "previous_rate": "Was 1 Qantas Points / $1",
         "merchant_id": "iherb"
       }
     ],
@@ -12064,7 +12064,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/imbibe",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "imbibe"
       }
     ],
@@ -12113,7 +12113,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/jbl",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "jbl"
       }
     ],
@@ -12162,7 +12162,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/jurlique",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "jurlique"
       }
     ],
@@ -12211,7 +12211,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/kathmandu",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "kathmandu"
       }
     ],
@@ -12260,7 +12260,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/king-living",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "king-living"
       }
     ],
@@ -12297,7 +12297,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/kitchenaid",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "kitchenaid"
       }
     ],
@@ -12310,7 +12310,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/knobby",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "knobby"
       }
     ],
@@ -12450,7 +12450,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "LEO LIN ",
+        "retailer_name": "LEO LIN",
         "earning_rate": "2 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/leo-lin",
@@ -12491,7 +12491,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/linen-house",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "linen-house"
       }
     ],
@@ -12552,7 +12552,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/lskd",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "lskd"
       }
     ],
@@ -12728,7 +12728,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "Merry People ",
+        "retailer_name": "Merry People",
         "earning_rate": "3 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/merry-people",
@@ -12781,7 +12781,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/mizuno",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "mizuno"
       }
     ],
@@ -13082,7 +13082,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/pace-athletic",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "pace-athletic"
       }
     ],
@@ -13107,7 +13107,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/patricks",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "patricks"
       }
     ],
@@ -13120,7 +13120,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/paulas-choice",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "paulas-choice"
       }
     ],
@@ -13181,7 +13181,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/petpost",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "petpost"
       }
     ],
@@ -13266,7 +13266,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/priceline-pharmacy",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "priceline-pharmacy"
       }
     ],
@@ -13291,7 +13291,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/princess-polly",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "princess-polly"
       }
     ],
@@ -13304,7 +13304,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/puma",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "puma"
       }
     ],
@@ -13341,7 +13341,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/rationale",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "rationale"
       }
     ],
@@ -13390,7 +13390,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/reebok",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "reebok"
       }
     ],
@@ -13415,7 +13415,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/remedy-drinks",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "remedy-drinks"
       }
     ],
@@ -13548,7 +13548,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/rundna",
         "currency": "AUD",
-        "previous_rate": "4 Qantas Points / $1",
+        "previous_rate": "Was 4 Qantas Points / $1",
         "merchant_id": "rundna"
       }
     ],
@@ -13568,7 +13568,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "RY ",
+        "retailer_name": "RY",
         "earning_rate": "1 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/ry",
@@ -13633,7 +13633,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/samsonite",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "samsonite"
       }
     ],
@@ -13658,7 +13658,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/saucony",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "saucony"
       }
     ],
@@ -13887,7 +13887,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/sony",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "sony"
       }
     ],
@@ -13912,7 +13912,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/speedo",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "speedo"
       }
     ],
@@ -13985,7 +13985,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/subtype",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "subtype"
       }
     ],
@@ -14010,7 +14010,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/sunglass-hut",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "sunglass-hut"
       }
     ],
@@ -14047,7 +14047,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/swisse-wellness",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "swisse-wellness"
       }
     ],
@@ -14072,7 +14072,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/t2-tea",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "t2-tea"
       }
     ],
@@ -14157,7 +14157,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/the-collagen-co",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "the-collagen-co"
       }
     ],
@@ -14194,7 +14194,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/the-lady-shake",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "the-lady-shake"
       }
     ],
@@ -14207,7 +14207,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/the-man-shake",
         "currency": "AUD",
-        "previous_rate": "3 Qantas Points / $1",
+        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "the-man-shake"
       }
     ],
@@ -14292,7 +14292,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/the-wod-life",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "the-wod-life"
       }
     ],
@@ -14401,7 +14401,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/tumi",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "tumi"
       }
     ],
@@ -14462,7 +14462,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/under-armour",
         "currency": "AUD",
-        "previous_rate": "5 Qantas Points / $1",
+        "previous_rate": "Was 5 Qantas Points / $1",
         "merchant_id": "under-armour"
       }
     ],
@@ -14535,7 +14535,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/vivobarefoot",
         "currency": "AUD",
-        "previous_rate": "6 Qantas Points / $1",
+        "previous_rate": "Was 6 Qantas Points / $1",
         "merchant_id": "vivobarefoot"
       }
     ],
@@ -14543,7 +14543,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "Wahl ",
+        "retailer_name": "Wahl",
         "earning_rate": "3 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/wahl",
@@ -14560,7 +14560,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/waterdrop",
         "currency": "AUD",
-        "previous_rate": "6 Qantas Points / $1",
+        "previous_rate": "Was 6 Qantas Points / $1",
         "merchant_id": "waterdrop"
       }
     ],
@@ -14621,7 +14621,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/wild-earth",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "wild-earth"
       }
     ],
@@ -14634,7 +14634,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/williams",
         "currency": "AUD",
-        "previous_rate": "2 Qantas Points / $1",
+        "previous_rate": "Was 2 Qantas Points / $1",
         "merchant_id": "williams"
       }
     ],
@@ -14683,7 +14683,7 @@
         "category": "",
         "activation_url": "https://shopping.qantas.com/youfoodz",
         "currency": "AUD",
-        "previous_rate": "15 Qantas Points / $1",
+        "previous_rate": "Was 15 Qantas Points / $1",
         "merchant_id": "youfoodz"
       }
     ],
