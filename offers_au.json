@@ -1,8 +1,8 @@
 {
   "meta": {
     "region": "AU",
-    "generated_at": "2026-04-12T13:23:40.766097+00:00",
-    "total_domains": 1119,
+    "generated_at": "2026-04-14T07:05:48.376293+00:00",
+    "total_domains": 1118,
     "programme_counts": {
       "avios": 0,
       "virgin_red": 0,
@@ -14,7 +14,7 @@
       "southwest_rr": 0,
       "atmos": 0,
       "skywards_mall": 230,
-      "asia_miles": 550,
+      "asia_miles": 549,
       "aeroplan_estore": 0,
       "qantas_shopping": 469,
       "radisson": 0
@@ -29,7 +29,7 @@
     "southwest_rr_retailer_count": 0,
     "atmos_retailer_count": 0,
     "skywards_mall_retailer_count": 230,
-    "asia_miles_retailer_count": 550,
+    "asia_miles_retailer_count": 549,
     "aeroplan_estore_retailer_count": 0,
     "qantas_shopping_retailer_count": 469,
     "radisson_retailer_count": 0
@@ -54,6 +54,17 @@
         "earning_rate": "2 Miles / AUD 10",
         "category": "Department Stores",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/department-stores/ebay-australia",
+        "currency": "AUD"
+      }
+    ],
+    "temu.com.au": [
+      {
+        "programme": "skywards_mall",
+        "programme_name": "Emirates Miles Mall",
+        "retailer_name": "Temu AU",
+        "earning_rate": "24 Miles / AUD 10",
+        "category": "Department Stores",
+        "activation_url": "https://www.skywardsmilesmall.com/earn/en/department-stores/temu-au",
         "currency": "AUD"
       }
     ],
@@ -112,17 +123,6 @@
         "currency": "AUD"
       }
     ],
-    "temu.com.au": [
-      {
-        "programme": "skywards_mall",
-        "programme_name": "Emirates Miles Mall",
-        "retailer_name": "Temu AU",
-        "earning_rate": "24 Miles / AUD 10",
-        "category": "Department Stores",
-        "activation_url": "https://www.skywardsmilesmall.com/earn/en/department-stores/temu-au",
-        "currency": "AUD"
-      }
-    ],
     "clinique.co.uk": [
       {
         "programme": "skywards_mall",
@@ -163,6 +163,27 @@
         "category": "Sport And Fitness",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/sport-and-fitness/adidas-australia",
         "currency": "AUD"
+      }
+    ],
+    "petcircle.com.au": [
+      {
+        "programme": "skywards_mall",
+        "programme_name": "Emirates Miles Mall",
+        "retailer_name": "Pet Circle",
+        "earning_rate": "3 Miles / AUD 10",
+        "category": "Home And Garden",
+        "activation_url": "https://www.skywardsmilesmall.com/earn/en/home-and-garden/pet-circle",
+        "currency": "AUD"
+      },
+      {
+        "programme": "qantas_shopping",
+        "programme_name": "Qantas Shopping",
+        "retailer_name": "Pet Circle",
+        "earning_rate": "1 Qantas Points / $1",
+        "category": "",
+        "activation_url": "https://shopping.qantas.com/pet-circle",
+        "currency": "AUD",
+        "merchant_id": "pet-circle"
       }
     ],
     "vistaprint.com.au": [
@@ -259,27 +280,6 @@
         "activation_url": "https://shopping.qantas.com/baby-bunting",
         "currency": "AUD",
         "merchant_id": "baby-bunting"
-      }
-    ],
-    "petcircle.com.au": [
-      {
-        "programme": "skywards_mall",
-        "programme_name": "Emirates Miles Mall",
-        "retailer_name": "Pet Circle",
-        "earning_rate": "3 Miles / AUD 10",
-        "category": "Home And Garden",
-        "activation_url": "https://www.skywardsmilesmall.com/earn/en/home-and-garden/pet-circle",
-        "currency": "AUD"
-      },
-      {
-        "programme": "qantas_shopping",
-        "programme_name": "Qantas Shopping",
-        "retailer_name": "Pet Circle",
-        "earning_rate": "1 Qantas Points / $1",
-        "category": "",
-        "activation_url": "https://shopping.qantas.com/pet-circle",
-        "currency": "AUD",
-        "merchant_id": "pet-circle"
       }
     ],
     "caravanrvcamping.com": [
@@ -1754,7 +1754,7 @@
         "programme": "skywards_mall",
         "programme_name": "Emirates Miles Mall",
         "retailer_name": "Castlery",
-        "earning_rate": "Up to 11 Miles / AUD 10",
+        "earning_rate": "11 Miles / AUD 10",
         "category": "Home And Garden",
         "activation_url": "https://www.skywardsmilesmall.com/earn/en/home-and-garden/castlery",
         "currency": "AUD"
@@ -3653,18 +3653,6 @@
         "merchant_id": "mytheresa"
       }
     ],
-    "trip.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Trip.com UK",
-        "earning_rate": "Up to £1 = 2",
-        "category": "Travel",
-        "activation_url": "https://shop.asiamiles.com/en/travel/trip-com-uk",
-        "currency": "GBP",
-        "merchant_id": "379885"
-      }
-    ],
     "hilton.com": [
       {
         "programme": "asia_miles",
@@ -3675,6 +3663,18 @@
         "activation_url": "https://shop.asiamiles.com/en/travel/hilton",
         "currency": "GBP",
         "merchant_id": "634"
+      }
+    ],
+    "trip.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Trip.com UK",
+        "earning_rate": "Up to £1 = 2",
+        "category": "Travel",
+        "activation_url": "https://shop.asiamiles.com/en/travel/trip-com-uk",
+        "currency": "GBP",
+        "merchant_id": "379885"
       }
     ],
     "mrporter.com": [
@@ -3705,7 +3705,7 @@
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "Agoda UK",
-        "earning_rate": "£1 = 6.75",
+        "earning_rate": "£1 = 7.25",
         "category": "Travel",
         "activation_url": "https://shop.asiamiles.com/en/travel/agoda-uk",
         "currency": "GBP",
@@ -3725,18 +3725,6 @@
         "merchant_id": "1643691"
       }
     ],
-    "getyourguide.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "GetYourGuide",
-        "earning_rate": "£1 = 4.75",
-        "category": "Travel",
-        "activation_url": "https://shop.asiamiles.com/en/travel/getyourguide",
-        "currency": "GBP",
-        "merchant_id": "486385"
-      }
-    ],
     "deliveroo.co.uk": [
       {
         "programme": "asia_miles",
@@ -3750,53 +3738,28 @@
         "merchant_id": "203718"
       }
     ],
-    "farfetch.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "FARFETCH UK",
-        "earning_rate": "£1 = 6.75",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/farfetch-uk",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 2.75",
-        "merchant_id": "89314"
-      },
-      {
-        "programme": "qantas_shopping",
-        "programme_name": "Qantas Shopping",
-        "retailer_name": "FARFETCH",
-        "earning_rate": "1 Qantas Points / $1",
-        "category": "",
-        "activation_url": "https://shopping.qantas.com/farfetch",
-        "currency": "AUD",
-        "merchant_id": "farfetch"
-      }
-    ],
-    "paulsmith.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Paul Smith",
-        "earning_rate": "£1 = 6.75",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/paul-smith",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 5.25",
-        "merchant_id": "99224"
-      }
-    ],
     "sportsdirect.com": [
       {
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "SportsDirect",
-        "earning_rate": "Up to £1 = 4",
+        "earning_rate": "Up to £1 = 2",
         "category": "Sport And Fitness",
         "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/sportsdirect",
         "currency": "GBP",
-        "previous_rate": "Was Up to £1 = 2",
         "merchant_id": "143"
+      }
+    ],
+    "getyourguide.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "GetYourGuide",
+        "earning_rate": "£1 = 4.75",
+        "category": "Travel",
+        "activation_url": "https://shop.asiamiles.com/en/travel/getyourguide",
+        "currency": "GBP",
+        "merchant_id": "486385"
       }
     ],
     "iherb.co.uk": [
@@ -3804,10 +3767,11 @@
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "iHerb UK",
-        "earning_rate": "£1 = 3.25",
+        "earning_rate": "Up to £1 = 6.75",
         "category": "Health And Beauty",
         "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/iherb-uk",
         "currency": "GBP",
+        "previous_rate": "Was £1 = 3.25",
         "merchant_id": "380565"
       }
     ],
@@ -3816,10 +3780,11 @@
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "B&Q",
-        "earning_rate": "£1 = 1.25",
+        "earning_rate": "£1 = 4",
         "category": "Home And Garden",
         "activation_url": "https://shop.asiamiles.com/en/home-and-garden/bandq",
         "currency": "GBP",
+        "previous_rate": "Was £1 = 1.25",
         "merchant_id": "1460"
       }
     ],
@@ -3836,16 +3801,30 @@
         "merchant_id": "62614"
       }
     ],
-    "kitbag.com": [
+    "boots.com": [
       {
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Kitbag",
+        "retailer_name": "Boots.com",
         "earning_rate": "£1 = 4",
-        "category": "Sport And Fitness",
-        "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/kitbag",
+        "category": "Health And Beauty",
+        "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/boots-com",
         "currency": "GBP",
-        "merchant_id": "258"
+        "previous_rate": "Was £1 = 1.25",
+        "merchant_id": "2080"
+      }
+    ],
+    "paulsmith.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Paul Smith",
+        "earning_rate": "£1 = 6.75",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/paul-smith",
+        "currency": "GBP",
+        "previous_rate": "Was £1 = 5.25",
+        "merchant_id": "99224"
       }
     ],
     "net-a-porter.com": [
@@ -3871,19 +3850,6 @@
         "merchant_id": "net-a-porter"
       }
     ],
-    "boots.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Boots.com",
-        "earning_rate": "£1 = 4",
-        "category": "Health And Beauty",
-        "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/boots-com",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 1.25",
-        "merchant_id": "2080"
-      }
-    ],
     "aliexpress.com": [
       {
         "programme": "asia_miles",
@@ -3901,10 +3867,11 @@
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "John Lewis & Partners",
-        "earning_rate": "Up to £1 = 0.75",
+        "earning_rate": "Up to £1 = 1.25",
         "category": "Department Stores",
         "activation_url": "https://shop.asiamiles.com/en/department-stores/john-lewis-and-partners",
         "currency": "GBP",
+        "previous_rate": "Was Up to £1 = 0.75",
         "merchant_id": "403"
       }
     ],
@@ -3918,6 +3885,18 @@
         "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/asos-uk",
         "currency": "GBP",
         "merchant_id": "79044"
+      }
+    ],
+    "kitbag.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Kitbag",
+        "earning_rate": "£1 = 4",
+        "category": "Sport And Fitness",
+        "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/kitbag",
+        "currency": "GBP",
+        "merchant_id": "258"
       }
     ],
     "europcar.co.uk": [
@@ -3967,6 +3946,29 @@
         "activation_url": "https://shop.asiamiles.com/en/food-and-drink/cha-dong-uk",
         "currency": "GBP",
         "merchant_id": "1673041"
+      }
+    ],
+    "theoutnet.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "THE OUTNET UK",
+        "earning_rate": "£1 = 6.75",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/the-outnet-uk",
+        "currency": "GBP",
+        "previous_rate": "Was £1 = 4",
+        "merchant_id": "79594"
+      },
+      {
+        "programme": "qantas_shopping",
+        "programme_name": "Qantas Shopping",
+        "retailer_name": "THE OUTNET",
+        "earning_rate": "3 Qantas Points / $1",
+        "category": "",
+        "activation_url": "https://shopping.qantas.com/the-outnet",
+        "currency": "AUD",
+        "merchant_id": "the-outnet"
       }
     ],
     "tkmaxx.com": [
@@ -4032,6 +4034,18 @@
         "merchant_id": "79654"
       }
     ],
+    "ernestjones.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Ernest Jones",
+        "earning_rate": "Up to £1 = 3.25",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/ernest-jones",
+        "currency": "GBP",
+        "merchant_id": "507"
+      }
+    ],
     "halfords.com": [
       {
         "programme": "asia_miles",
@@ -4068,19 +4082,6 @@
         "merchant_id": "62764"
       }
     ],
-    "cultbeauty.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Cult Beauty",
-        "earning_rate": "Up to £1 = 6",
-        "category": "Health And Beauty",
-        "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/cult-beauty",
-        "currency": "GBP",
-        "previous_rate": "Was Up to £1 = 3.25",
-        "merchant_id": "131618"
-      }
-    ],
     "marksandspencer.com": [
       {
         "programme": "asia_miles",
@@ -4092,6 +4093,29 @@
         "currency": "GBP",
         "previous_rate": "Was Up to £1 = 1.25",
         "merchant_id": "379"
+      }
+    ],
+    "farfetch.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "FARFETCH UK",
+        "earning_rate": "£1 = 6.75",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/farfetch-uk",
+        "currency": "GBP",
+        "previous_rate": "Was £1 = 2.75",
+        "merchant_id": "89314"
+      },
+      {
+        "programme": "qantas_shopping",
+        "programme_name": "Qantas Shopping",
+        "retailer_name": "FARFETCH",
+        "earning_rate": "1 Qantas Points / $1",
+        "category": "",
+        "activation_url": "https://shopping.qantas.com/farfetch",
+        "currency": "AUD",
+        "merchant_id": "farfetch"
       }
     ],
     "radissonhotels.com": [
@@ -4118,12 +4142,24 @@
         "merchant_id": "566715"
       }
     ],
+    "thef1news.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "The Formula 1 Store",
+        "earning_rate": "£1 = 4",
+        "category": "Sport And Fitness",
+        "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/the-formula-1-store",
+        "currency": "GBP",
+        "merchant_id": "121778"
+      }
+    ],
     "lookfantastic.com": [
       {
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "LOOKFANTASTIC",
-        "earning_rate": "Up to £1 = 8",
+        "earning_rate": "Up to £1 = 10",
         "category": "Health And Beauty",
         "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/lookfantastic",
         "currency": "GBP",
@@ -4142,18 +4178,6 @@
         "currency": "GBP",
         "previous_rate": "Was £1 = 2",
         "merchant_id": "792"
-      }
-    ],
-    "qvcuk.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "QVC UK",
-        "earning_rate": "£1 = 2",
-        "category": "Home And Garden",
-        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/qvc-uk",
-        "currency": "GBP",
-        "merchant_id": "5671"
       }
     ],
     "nealsyardremedies.com": [
@@ -4279,12 +4303,23 @@
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "Fortnum & Mason",
-        "earning_rate": "Up to £1 = 5.25",
+        "earning_rate": "Up to £1 = 2.75",
         "category": "Department Stores",
         "activation_url": "https://shop.asiamiles.com/en/department-stores/fortnum-and-mason",
         "currency": "GBP",
-        "previous_rate": "Was Up to £1 = 2.75",
         "merchant_id": "85714"
+      }
+    ],
+    "accessorize.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Accessorize",
+        "earning_rate": "Up to £1 = 4",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/accessorize",
+        "currency": "GBP",
+        "merchant_id": "55524"
       }
     ],
     "currys.co.uk": [
@@ -4292,11 +4327,10 @@
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "Currys",
-        "earning_rate": "Up to £1 = 2",
+        "earning_rate": "Up to £1 = 1.25",
         "category": "Electricals",
         "activation_url": "https://shop.asiamiles.com/en/electricals/currys",
         "currency": "GBP",
-        "previous_rate": "Was Up to £1 = 1.25",
         "merchant_id": "1451"
       }
     ],
@@ -4334,16 +4368,28 @@
         "merchant_id": "ugg"
       }
     ],
-    "qpark.co.uk": [
+    "airalo.com": [
       {
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Q-Park",
-        "earning_rate": "£1 = 0.75",
-        "category": "Travel",
-        "activation_url": "https://shop.asiamiles.com/en/travel/q-park",
+        "retailer_name": "Airalo Asia",
+        "earning_rate": "HKD10 = 9.5",
+        "category": "Utilities And Telecoms",
+        "activation_url": "https://shop.asiamiles.com/en/utilities-and-telecoms/airalo-asia",
+        "currency": "HKD",
+        "merchant_id": "485655"
+      }
+    ],
+    "dominos.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Domino's Pizza",
+        "earning_rate": "£1 = 1.25",
+        "category": "Food And Drink",
+        "activation_url": "https://shop.asiamiles.com/en/food-and-drink/domino-039-s-pizza",
         "currency": "GBP",
-        "merchant_id": "508075"
+        "merchant_id": "14401"
       }
     ],
     "nike.com": [
@@ -4357,18 +4403,6 @@
         "currency": "GBP",
         "previous_rate": "Was Up to £1 = 2",
         "merchant_id": "1366"
-      }
-    ],
-    "airalo.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Airalo Asia",
-        "earning_rate": "HKD10 = 9.5",
-        "category": "Utilities And Telecoms",
-        "activation_url": "https://shop.asiamiles.com/en/utilities-and-telecoms/airalo-asia",
-        "currency": "HKD",
-        "merchant_id": "485655"
       }
     ],
     "shein.co.uk": [
@@ -4406,6 +4440,18 @@
         "activation_url": "https://shop.asiamiles.com/en/entertainment-and-leisure/waterstones",
         "currency": "GBP",
         "merchant_id": "394"
+      }
+    ],
+    "qpark.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Q-Park",
+        "earning_rate": "£1 = 0.75",
+        "category": "Travel",
+        "activation_url": "https://shop.asiamiles.com/en/travel/q-park",
+        "currency": "GBP",
+        "merchant_id": "508075"
       }
     ],
     "loungepass.com": [
@@ -4468,18 +4514,6 @@
         "merchant_id": "164"
       }
     ],
-    "cadburygiftsdirect.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Cadbury Gifts Direct",
-        "earning_rate": "£1 = 4.75",
-        "category": "Gifts And Flowers",
-        "activation_url": "https://shop.asiamiles.com/en/gifts-and-flowers/cadbury-gifts-direct",
-        "currency": "GBP",
-        "merchant_id": "166"
-      }
-    ],
     "hp.com": [
       {
         "programme": "asia_miles",
@@ -4492,16 +4526,16 @@
         "merchant_id": "153"
       }
     ],
-    "darlingsofchelsea.co.uk": [
+    "cadburygiftsdirect.co.uk": [
       {
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Darlings of Chelsea",
-        "earning_rate": "Up to £1 = 2.75",
-        "category": "Home And Garden",
-        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/darlings-of-chelsea",
+        "retailer_name": "Cadbury Gifts Direct",
+        "earning_rate": "£1 = 4.75",
+        "category": "Gifts And Flowers",
+        "activation_url": "https://shop.asiamiles.com/en/gifts-and-flowers/cadbury-gifts-direct",
         "currency": "GBP",
-        "merchant_id": "173"
+        "merchant_id": "166"
       }
     ],
     "cotswoldoutdoor.com": [
@@ -4514,6 +4548,18 @@
         "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/cotswold-outdoor",
         "currency": "GBP",
         "merchant_id": "156"
+      }
+    ],
+    "darlingsofchelsea.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Darlings of Chelsea",
+        "earning_rate": "Up to £1 = 2.75",
+        "category": "Home And Garden",
+        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/darlings-of-chelsea",
+        "currency": "GBP",
+        "merchant_id": "173"
       }
     ],
     "musicroom.com": [
@@ -4876,18 +4922,6 @@
         "merchant_id": "495"
       }
     ],
-    "ernestjones.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Ernest Jones",
-        "earning_rate": "Up to £1 = 3.25",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/ernest-jones",
-        "currency": "GBP",
-        "merchant_id": "507"
-      }
-    ],
     "hsamuel.co.uk": [
       {
         "programme": "asia_miles",
@@ -4992,18 +5026,6 @@
         "activation_url": "https://shop.asiamiles.com/en/gifts-and-flowers/firebox",
         "currency": "GBP",
         "merchant_id": "662"
-      }
-    ],
-    "boden.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Boden UK",
-        "earning_rate": "Up to £1 = 2",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/boden-uk",
-        "currency": "GBP",
-        "merchant_id": "667"
       }
     ],
     "ancestry.co.uk": [
@@ -5784,18 +5806,6 @@
         "merchant_id": "1527"
       }
     ],
-    "redletterdays.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Red Letter Days",
-        "earning_rate": "£1 = 6.75",
-        "category": "Gifts And Flowers",
-        "activation_url": "https://shop.asiamiles.com/en/gifts-and-flowers/red-letter-days",
-        "currency": "GBP",
-        "merchant_id": "1654"
-      }
-    ],
     "debenhams.com": [
       {
         "programme": "asia_miles",
@@ -5808,16 +5818,16 @@
         "merchant_id": "1690"
       }
     ],
-    "frasers.com": [
+    "redletterdays.co.uk": [
       {
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
-        "retailer_name": "FRASERS",
-        "earning_rate": "Up to £1 = 2",
-        "category": "Department Stores",
-        "activation_url": "https://shop.asiamiles.com/en/department-stores/frasers",
+        "retailer_name": "Red Letter Days",
+        "earning_rate": "£1 = 6.75",
+        "category": "Gifts And Flowers",
+        "activation_url": "https://shop.asiamiles.com/en/gifts-and-flowers/red-letter-days",
         "currency": "GBP",
-        "merchant_id": "1669"
+        "merchant_id": "1654"
       }
     ],
     "swarovski.com": [
@@ -5840,6 +5850,18 @@
         "activation_url": "https://shopping.qantas.com/swarovski",
         "currency": "AUD",
         "merchant_id": "swarovski"
+      }
+    ],
+    "frasers.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "FRASERS",
+        "earning_rate": "Up to £1 = 2",
+        "category": "Department Stores",
+        "activation_url": "https://shop.asiamiles.com/en/department-stores/frasers",
+        "currency": "GBP",
+        "merchant_id": "1669"
       }
     ],
     "menkind.co.uk": [
@@ -6212,6 +6234,18 @@
         "merchant_id": "5291"
       }
     ],
+    "qvcuk.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "QVC UK",
+        "earning_rate": "£1 = 2",
+        "category": "Home And Garden",
+        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/qvc-uk",
+        "currency": "GBP",
+        "merchant_id": "5671"
+      }
+    ],
     "jessops.com": [
       {
         "programme": "asia_miles",
@@ -6272,18 +6306,6 @@
         "merchant_id": "14341"
       }
     ],
-    "dominos.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Domino's Pizza",
-        "earning_rate": "£1 = 1.25",
-        "category": "Food And Drink",
-        "activation_url": "https://shop.asiamiles.com/en/food-and-drink/domino-039-s-pizza",
-        "currency": "GBP",
-        "merchant_id": "14401"
-      }
-    ],
     "jojomamanbebe.com": [
       {
         "programme": "asia_miles",
@@ -6313,11 +6335,11 @@
         "programme": "asia_miles",
         "programme_name": "Cathay Asia Miles",
         "retailer_name": "Dreams",
-        "earning_rate": "From £1 = 4",
+        "earning_rate": "From £1 = 3.25",
         "category": "Home And Garden",
         "activation_url": "https://shop.asiamiles.com/en/home-and-garden/dreams",
         "currency": "GBP",
-        "previous_rate": "Was From £1 = 2",
+        "previous_rate": "Was From £1 = 3.25",
         "merchant_id": "141"
       }
     ],
@@ -6345,6 +6367,19 @@
         "currency": "GBP",
         "previous_rate": "Was £1 = 0.75",
         "merchant_id": "651"
+      }
+    ],
+    "boden.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Boden UK",
+        "earning_rate": "Up to £1 = 3.25",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/boden-uk",
+        "currency": "GBP",
+        "previous_rate": "Was Up to £1 = 2",
+        "merchant_id": "667"
       }
     ],
     "glassesdirect.co.uk": [
@@ -6609,6 +6644,18 @@
         "merchant_id": "53094"
       }
     ],
+    "bensonsforbeds.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Bensons for Beds",
+        "earning_rate": "£1 = 3.25",
+        "category": "Home And Garden",
+        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/bensons-for-beds",
+        "currency": "GBP",
+        "merchant_id": "53344"
+      }
+    ],
     "bonmarche.co.uk": [
       {
         "programme": "asia_miles",
@@ -6669,6 +6716,18 @@
         "merchant_id": "53994"
       }
     ],
+    "twinings.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Twinings",
+        "earning_rate": "Up to £1 = 6.75",
+        "category": "Food And Drink",
+        "activation_url": "https://shop.asiamiles.com/en/food-and-drink/twinings",
+        "currency": "GBP",
+        "merchant_id": "55444"
+      }
+    ],
     "monsoon.co.uk": [
       {
         "programme": "asia_miles",
@@ -6679,18 +6738,6 @@
         "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/monsoon",
         "currency": "GBP",
         "merchant_id": "55514"
-      }
-    ],
-    "accessorize.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Accessorize",
-        "earning_rate": "Up to £1 = 4",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/accessorize",
-        "currency": "GBP",
-        "merchant_id": "55524"
       }
     ],
     "fatface.com": [
@@ -6751,6 +6798,18 @@
         "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/gorgeous-shop",
         "currency": "GBP",
         "merchant_id": "56684"
+      }
+    ],
+    "scs.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "ScS Sofas",
+        "earning_rate": "£1 = 1.25",
+        "category": "Home And Garden",
+        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/scs-sofas",
+        "currency": "GBP",
+        "merchant_id": "56694"
       }
     ],
     "apricot.com": [
@@ -6905,6 +6964,18 @@
         "merchant_id": "59874"
       }
     ],
+    "dunelm.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Dunelm",
+        "earning_rate": "£1 = 1.25",
+        "category": "Home And Garden",
+        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/dunelm",
+        "currency": "GBP",
+        "merchant_id": "60334"
+      }
+    ],
     "my1styears.com": [
       {
         "programme": "asia_miles",
@@ -6927,18 +6998,6 @@
         "activation_url": "https://shop.asiamiles.com/en/travel/sixt-uk",
         "currency": "GBP",
         "merchant_id": "60694"
-      }
-    ],
-    "berghaus.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Berghaus",
-        "earning_rate": "Up to £1 = 5.25",
-        "category": "Sport And Fitness",
-        "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/berghaus",
-        "currency": "GBP",
-        "merchant_id": "60704"
       }
     ],
     "hampers.com": [
@@ -7249,6 +7308,18 @@
         "merchant_id": "75494"
       }
     ],
+    "toryburch.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Tory Burch UK",
+        "earning_rate": "£1 = 3.25",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/tory-burch-uk",
+        "currency": "GBP",
+        "merchant_id": "85324"
+      }
+    ],
     "kurtgeiger.com": [
       {
         "programme": "asia_miles",
@@ -7307,6 +7378,18 @@
         "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/farah",
         "currency": "GBP",
         "merchant_id": "87804"
+      }
+    ],
+    "hobbycraft.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Hobbycraft",
+        "earning_rate": "Up to £1 = 2",
+        "category": "Entertainment And Leisure",
+        "activation_url": "https://shop.asiamiles.com/en/entertainment-and-leisure/hobbycraft",
+        "currency": "GBP",
+        "merchant_id": "88754"
       }
     ],
     "toms.com": [
@@ -7561,29 +7644,6 @@
         "merchant_id": "the-north-face"
       }
     ],
-    "theoutnet.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "THE OUTNET UK",
-        "earning_rate": "£1 = 6.75",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/the-outnet-uk",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 4",
-        "merchant_id": "79594"
-      },
-      {
-        "programme": "qantas_shopping",
-        "programme_name": "Qantas Shopping",
-        "retailer_name": "THE OUTNET",
-        "earning_rate": "3 Qantas Points / $1",
-        "category": "",
-        "activation_url": "https://shopping.qantas.com/the-outnet",
-        "currency": "AUD",
-        "merchant_id": "the-outnet"
-      }
-    ],
     "modaoperandi.com": [
       {
         "programme": "asia_miles",
@@ -7630,18 +7690,6 @@
         "activation_url": "https://shop.asiamiles.com/en/travel/skiset",
         "currency": "GBP",
         "merchant_id": "121498"
-      }
-    ],
-    "thef1news.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "The Formula 1 Store",
-        "earning_rate": "£1 = 4",
-        "category": "Sport And Fitness",
-        "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/the-formula-1-store",
-        "currency": "GBP",
-        "merchant_id": "121778"
       }
     ],
     "tedbaker.com": [
@@ -7905,6 +7953,18 @@
         "merchant_id": "155528"
       }
     ],
+    "kerastase.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Kerastase UK",
+        "earning_rate": "£1 = 3.25",
+        "category": "Health And Beauty",
+        "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/kerastase-uk",
+        "currency": "GBP",
+        "merchant_id": "156908"
+      }
+    ],
     "charlottetilbury.com": [
       {
         "programme": "asia_miles",
@@ -7938,19 +7998,6 @@
         "activation_url": "https://shop.asiamiles.com/en/electricals/sonos-uk",
         "currency": "GBP",
         "merchant_id": "171418"
-      }
-    ],
-    "hobbycraft.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Hobbycraft",
-        "earning_rate": "Up to £1 = 3.25",
-        "category": "Entertainment And Leisure",
-        "activation_url": "https://shop.asiamiles.com/en/entertainment-and-leisure/hobbycraft",
-        "currency": "GBP",
-        "previous_rate": "Was Up to £1 = 2",
-        "merchant_id": "88754"
       }
     ],
     "esteelauder.co.uk": [
@@ -7989,6 +8036,19 @@
         "merchant_id": "175858"
       }
     ],
+    "berghaus.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Berghaus",
+        "earning_rate": "Up to £1 = 6.75",
+        "category": "Sport And Fitness",
+        "activation_url": "https://shop.asiamiles.com/en/sport-and-fitness/berghaus",
+        "currency": "GBP",
+        "previous_rate": "Was Up to £1 = 5.25",
+        "merchant_id": "60704"
+      }
+    ],
     "store.canon.co.uk": [
       {
         "programme": "asia_miles",
@@ -8000,30 +8060,6 @@
         "currency": "GBP",
         "previous_rate": "Was Up to £1 = 2",
         "merchant_id": "123828"
-      }
-    ],
-    "karllagerfeld.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "KARL LAGERFELD",
-        "earning_rate": "£1 = 5.25",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/karl-lagerfeld",
-        "currency": "GBP",
-        "merchant_id": "216788"
-      }
-    ],
-    "montcalmcollection.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "The Montcalm Luxury Hotels",
-        "earning_rate": "£1 = 6.75",
-        "category": "Travel",
-        "activation_url": "https://shop.asiamiles.com/en/travel/the-montcalm-luxury-hotels",
-        "currency": "GBP",
-        "merchant_id": "218848"
       }
     ],
     "24s.co.uk": [
@@ -8060,18 +8096,6 @@
         "activation_url": "https://shop.asiamiles.com/en/travel/railcard",
         "currency": "GBP",
         "merchant_id": "227968"
-      }
-    ],
-    "yslbeauty.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Yves Saint Laurent Beauty UK",
-        "earning_rate": "£1 = 5.25",
-        "category": "Health And Beauty",
-        "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/yves-saint-laurent-beauty-uk",
-        "currency": "GBP",
-        "merchant_id": "255218"
       }
     ],
     "wowcher.co.uk": [
@@ -8123,6 +8147,30 @@
         "merchant_id": "new-balance"
       }
     ],
+    "karllagerfeld.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "KARL LAGERFELD",
+        "earning_rate": "£1 = 5.25",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/karl-lagerfeld",
+        "currency": "GBP",
+        "merchant_id": "216788"
+      }
+    ],
+    "montcalmcollection.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "The Montcalm Luxury Hotels",
+        "earning_rate": "£1 = 6.75",
+        "category": "Travel",
+        "activation_url": "https://shop.asiamiles.com/en/travel/the-montcalm-luxury-hotels",
+        "currency": "GBP",
+        "merchant_id": "218848"
+      }
+    ],
     "unineed.com": [
       {
         "programme": "asia_miles",
@@ -8133,18 +8181,6 @@
         "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/unineed",
         "currency": "GBP",
         "merchant_id": "266165"
-      }
-    ],
-    "nespresso.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Nespresso Coffee",
-        "earning_rate": "Up to £1 = 3.25",
-        "category": "Food And Drink",
-        "activation_url": "https://shop.asiamiles.com/en/food-and-drink/nespresso-coffee",
-        "currency": "GBP",
-        "merchant_id": "267775"
       }
     ],
     "levis.com": [
@@ -8286,19 +8322,6 @@
         "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/italist-uk",
         "currency": "GBP",
         "merchant_id": "288085"
-      }
-    ],
-    "twinings.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Twinings",
-        "earning_rate": "Up to £1 = 8",
-        "category": "Food And Drink",
-        "activation_url": "https://shop.asiamiles.com/en/food-and-drink/twinings",
-        "currency": "GBP",
-        "previous_rate": "Was Up to £1 = 6.75",
-        "merchant_id": "55444"
       }
     ],
     "regatta.com": [
@@ -8480,19 +8503,6 @@
         "merchant_id": "361095"
       }
     ],
-    "dunelm.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Dunelm",
-        "earning_rate": "£1 = 2.75",
-        "category": "Home And Garden",
-        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/dunelm",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 1.25",
-        "merchant_id": "60334"
-      }
-    ],
     "montblanc.com": [
       {
         "programme": "asia_miles",
@@ -8503,6 +8513,18 @@
         "activation_url": "https://shop.asiamiles.com/en/gifts-and-flowers/montblanc",
         "currency": "GBP",
         "merchant_id": "367065"
+      }
+    ],
+    "comparethemarket.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Compare the Market Car Insurance",
+        "earning_rate": "1,669.75",
+        "category": "Banking And Insurance",
+        "activation_url": "https://shop.asiamiles.com/en/banking-and-insurance/compare-the-market-car-insurance",
+        "currency": "GBP",
+        "merchant_id": "367745"
       }
     ],
     "morphyrichards.co.uk": [
@@ -8516,18 +8538,6 @@
         "currency": "GBP",
         "previous_rate": "Was Up to £1 = 2.75",
         "merchant_id": "63234"
-      }
-    ],
-    "comparethemarket.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Compare the Market Car Insurance",
-        "earning_rate": "1,669.75",
-        "category": "Banking And Insurance",
-        "activation_url": "https://shop.asiamiles.com/en/banking-and-insurance/compare-the-market-car-insurance",
-        "currency": "GBP",
-        "merchant_id": "367745"
       }
     ],
     "church-footwear.com": [
@@ -8624,19 +8634,6 @@
         "activation_url": "https://shop.asiamiles.com/en/travel/greene-king-inns",
         "currency": "GBP",
         "merchant_id": "387615"
-      }
-    ],
-    "toryburch.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Tory Burch UK",
-        "earning_rate": "£1 = 8",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/tory-burch-uk",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 3.25",
-        "merchant_id": "85324"
       }
     ],
     "benefitcosmetics.com": [
@@ -8905,19 +8902,6 @@
         "merchant_id": "421595"
       }
     ],
-    "bensonsforbeds.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Bensons for Beds",
-        "earning_rate": "£1 = 5.25",
-        "category": "Home And Garden",
-        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/bensons-for-beds",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 3.25",
-        "merchant_id": "53344"
-      }
-    ],
     "awayresorts.co.uk": [
       {
         "programme": "asia_miles",
@@ -8928,6 +8912,19 @@
         "activation_url": "https://shop.asiamiles.com/en/travel/away-resorts",
         "currency": "GBP",
         "merchant_id": "432485"
+      }
+    ],
+    "nespresso.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Nespresso Coffee",
+        "earning_rate": "Up to £1 = 4",
+        "category": "Food And Drink",
+        "activation_url": "https://shop.asiamiles.com/en/food-and-drink/nespresso-coffee",
+        "currency": "GBP",
+        "previous_rate": "Was Up to £1 = 3.25",
+        "merchant_id": "267775"
       }
     ],
     "nflshop.com": [
@@ -9001,19 +8998,6 @@
         "currency": "GBP",
         "previous_rate": "Was £1 = 2.75",
         "merchant_id": "444095"
-      }
-    ],
-    "scs.co.uk": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "ScS Sofas",
-        "earning_rate": "£1 = 4.75",
-        "category": "Home And Garden",
-        "activation_url": "https://shop.asiamiles.com/en/home-and-garden/scs-sofas",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 1.25",
-        "merchant_id": "56694"
       }
     ],
     "bosch.co.uk": [
@@ -10174,6 +10158,19 @@
         "merchant_id": "365875"
       }
     ],
+    "cultbeauty.co.uk": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Cult Beauty",
+        "earning_rate": "Up to £1 = 6",
+        "category": "Health And Beauty",
+        "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/cult-beauty",
+        "currency": "GBP",
+        "previous_rate": "Was Up to £1 = 3.25",
+        "merchant_id": "131618"
+      }
+    ],
     "chicco.co.uk": [
       {
         "programme": "asia_miles",
@@ -10210,19 +10207,6 @@
         "currency": "GBP",
         "previous_rate": "Was 668",
         "merchant_id": "360365"
-      }
-    ],
-    "kerastase.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Kerastase UK",
-        "earning_rate": "£1 = 8",
-        "category": "Health And Beauty",
-        "activation_url": "https://shop.asiamiles.com/en/health-and-beauty/kerastase-uk",
-        "currency": "GBP",
-        "previous_rate": "Was £1 = 3.25",
-        "merchant_id": "156908"
       }
     ],
     "chloe.com": [
@@ -10334,6 +10318,18 @@
         "merchant_id": "1650451"
       }
     ],
+    "armani.com": [
+      {
+        "programme": "asia_miles",
+        "programme_name": "Cathay Asia Miles",
+        "retailer_name": "Armani UK",
+        "earning_rate": "£1 = 2.75",
+        "category": "Clothes And Fashion",
+        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/armani-uk",
+        "currency": "GBP",
+        "merchant_id": "1651081"
+      }
+    ],
     "pharmacyonline.co.uk": [
       {
         "programme": "asia_miles",
@@ -10354,18 +10350,6 @@
         "activation_url": "https://shopping.qantas.com/pharmacy-online",
         "currency": "AUD",
         "merchant_id": "pharmacy-online"
-      }
-    ],
-    "armani.com": [
-      {
-        "programme": "asia_miles",
-        "programme_name": "Cathay Asia Miles",
-        "retailer_name": "Armani UK",
-        "earning_rate": "£1 = 2.75",
-        "category": "Clothes And Fashion",
-        "activation_url": "https://shop.asiamiles.com/en/clothes-and-fashion/armani-uk",
-        "currency": "GBP",
-        "merchant_id": "1651081"
       }
     ],
     "skechers.co.uk": [
@@ -10460,11 +10444,10 @@
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
         "retailer_name": "Above The Collar",
-        "earning_rate": "4 Qantas Points / $1",
+        "earning_rate": "3 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/above-the-collar",
         "currency": "AUD",
-        "previous_rate": "Was 3 Qantas Points / $1",
         "merchant_id": "above-the-collar"
       }
     ],
@@ -12450,7 +12433,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "LEO LIN",
+        "retailer_name": "LEO LIN ",
         "earning_rate": "2 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/leo-lin",
@@ -12728,7 +12711,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "Merry People",
+        "retailer_name": "Merry People ",
         "earning_rate": "3 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/merry-people",
@@ -13568,7 +13551,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "RY",
+        "retailer_name": "RY ",
         "earning_rate": "1 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/ry",
@@ -14543,7 +14526,7 @@
       {
         "programme": "qantas_shopping",
         "programme_name": "Qantas Shopping",
-        "retailer_name": "Wahl",
+        "retailer_name": "Wahl ",
         "earning_rate": "3 Qantas Points / $1",
         "category": "",
         "activation_url": "https://shopping.qantas.com/wahl",
